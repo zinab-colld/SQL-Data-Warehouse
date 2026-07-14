@@ -12,7 +12,8 @@ We transformed our transactional tables into an analytical dimensional model lev
 Below is the visualization of our Star Schema designed using **dbdiagram.io**:
 https://dbdiagram.io/d/6944fb444bbde0fd74c97579
 
-<!-- تظهر الصورة تلقائياً بمجرد رفعها داخل مجلد docs باسم s
+
+
 ## Repository Structure
 
 Your repository is structured as follows:
